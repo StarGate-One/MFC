@@ -12,8 +12,8 @@ CSameGameBoard::CSameGameBoard(void)
   m_arrColors[0] = RGB(  0,  0,  0);
   m_arrColors[1] = RGB(  0,  0,255);
   m_arrColors[2] = RGB(  0,255,  0);
-  m_arrColors[3] = RGB(  0,255,255);
-  m_arrColors[4] = RGB(255,  0,  0);
+  m_arrColors[3] = RGB(255,  0,  0);
+  m_arrColors[4] = RGB(  0,255,255);
   m_arrColors[5] = RGB(255,  0,255);
   m_arrColors[6] = RGB(255,255,  0);
   m_arrColors[7] = RGB(255,255,255);
